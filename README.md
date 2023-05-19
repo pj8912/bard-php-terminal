@@ -9,11 +9,13 @@ Terminal Chat with Bard using Bard API and PHP
 - Clone
 ```bash
 git clone https://github.com/pj8912/bard-php-terminal.git
+```
 
 - Install 
 ```bash
 composer install
 ```
+
 ```
 ## Enter Your Key
 ```php
